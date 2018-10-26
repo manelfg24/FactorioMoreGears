@@ -1,0 +1,9 @@
+{
+  "name": "FactorioMoreGears",
+  "version": "1.0.0",
+  "title": "FactorioMoreGears",
+  "author": "Mand",
+  "description": "Mod that increases the number of iron-gear-wheels per iron plate",
+  "factorio_version":"0.16",
+  "dependencies": [ "? bobassembly", "? bobmodules" ]
+}
